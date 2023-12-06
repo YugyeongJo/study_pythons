@@ -13,3 +13,17 @@ print(numbers)
 if 5 > 2: # 묶음 기호인 :과 tab은 하나의 쌍
     print("Five is greater than two!")
 print("end")
+
+# 각 줄에 출력
+first = "First"
+second = "Second"
+print("first : {}! ".format(first))
+print("second : {}! ".format(second))
+print("End program!")
+
+# 한줄에 출력
+first = "First"
+second = "Second"
+print("first : {}! ".format(first), end=", ")
+print("second : {}! ".format(second))
+print("End program!")
