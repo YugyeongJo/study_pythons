@@ -81,4 +81,5 @@ def score() :
     else :
         my_grade = 'C'
     return my_grade
-print("당신의 학점은 {}입니다.".format(score()))
+str_grade = return_grade()
+print("당신의 학점은 {}입니다.".format(str_grade))
