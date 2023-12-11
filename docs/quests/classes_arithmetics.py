@@ -3,7 +3,7 @@ class Arithmetics:
     def __init__(self) :      # 생성자(class 갖고 있는 자원)
         pass
 
-    def add(self, first, second) :
+    def add(self, first, second) :                  ####예외처리 하세요!!!!!!
         result = first + second
         return result
 
@@ -25,6 +25,8 @@ class Arithmetics:
 ## 다음에 사용하기 위해 변수에 담기
 arithmetics = Arithmetics()
 # 3. call function : 원하는 기능 호출
+
+
 print(arithmetics.add(5, 6))
 print(arithmetics.minus(5, 6))
 print(arithmetics.multiplication(5, 6))
