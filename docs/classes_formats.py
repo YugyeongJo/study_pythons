@@ -49,3 +49,5 @@ class Arithmetics:
 arithmetics = Arithmetics()
 # 3. call function : 원하는 기능 호출
 arithmetics.add(5, 6)
+print(arithmetics.add(5, 6))
+print(arithmetics.minus(5, 6))
