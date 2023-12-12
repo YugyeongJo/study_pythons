@@ -97,3 +97,24 @@ for num_count in [0, 2]:
 
 print("선호 답항 {}".format(list_statistics))
 print("End program!")
+
+# list 초기화 방식
+list_fruits_primitive = ["melon", "apple", "banana", "cherry"]
+turple_fruits = ("melon", "apple", "banana", "cherry")
+list_fruits_constructor = list(("melon", "apple", "banana", "cherry"))
+
+#type list인지 확인
+type(list_fruits_primitive)
+# <class 'list'>
+type(list_fruits_constructor)
+# <class 'list'>
+
+#list append, remove, clear
+# 삭제 대상이 해당 값이 있는 item
+list_fruits_primitive.append('strawberry')
+list_fruits_primitive.remove('apple')
+list_fruits_constructor.remove('melon')
+# 삭제 대상이 전체 item
+list_fruits_primitive.clear()
+
+pass
