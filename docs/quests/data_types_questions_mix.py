@@ -26,7 +26,7 @@ def mixed_question():
     dict_mixed_question["answer"] = []
     for dict_answer in [0,1,2,3]:
         dict_mixed_question["answer"].append(input("answer list를 입력하세요"))
-    dict_mixed_question["correct_index"] = int(input("몇번째 정답인지 입력하세요"))-1
+    dict_mixed_question["correct_index"] = int(input("몇번째 정답인지 입력하세요"))
     dict_mixed_question["score"] = int(input("score을 입력하세요"))
     
     return dict_mixed_question
