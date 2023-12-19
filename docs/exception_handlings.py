@@ -25,3 +25,15 @@ finally:
 
 print("{} = {} / {}".format(result, num_first, num_second))
 pass 
+
+# function in try exception
+def multiply_withexception() :
+    try: 
+        result = num_first / num_second
+        pass
+    except:
+        result = int(num_first) / int(num_second)
+        pass
+    finally:
+        pass
+    return result
