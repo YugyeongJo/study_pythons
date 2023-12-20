@@ -10,7 +10,7 @@
 # 첫째 줄에 N!을 출력한다.
    
     
-n = 10
+n = input()
 
 count = 0
 N = []
@@ -25,3 +25,9 @@ M = 1
 for i in range(n):
     M = M * N[i]
     pass
+
+
+
+
+
+###### 제출필요
