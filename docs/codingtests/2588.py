@@ -10,3 +10,27 @@
 # 출력
 # 첫째 줄부터 넷째 줄까지 차례대로 (3), (4), (5), (6)에 들어갈 값을 출력한다.
 
+#세 자리수 input 받기(두번째값 list로)
+#첫번째 input 값 * 두번째 input값 각각의 자리수를 곱하기(3번모두)
+#두번째 input int로 변환해서 곱셈값 출력
+
+A = int(input())     #첫번째 숫자 int로 변환해서 input 받기
+B = input()          #두번째 숫자 imput 받고, int 변환X(input받은 값을 각각 쪼개기 위해서)
+
+temp_list = []       #두번째 숫자 쪼개기 위해 리스트화 
+
+for i in range(len(B)):           #두번째 숫자 길이만큼 반복해서 각 자리의 숫자를 인덱스화
+    temp_list.append(B[i])
+
+first_multiply = A*int(temp_list[0])       #마지막자리수 곱하기
+second_multiply = A*int(temp_list[1])      #두번째자리수 곱하기
+third_multiply = A*int(temp_list[2])       #첫번째자리수 곱하기
+
+B2 = int(B)                               #최종 곱한 값 산출을 위한 두번째 input값 int화 하기
+
+fourth_multiply = A*B2                    #최종값 곱하기
+
+print(third_multiply)                     #print
+print(second_multiply)
+print(first_multiply)
+print(fourth_multiply)

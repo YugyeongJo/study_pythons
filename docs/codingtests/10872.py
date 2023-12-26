@@ -8,26 +8,73 @@
 
 # 출력
 # 첫째 줄에 N!을 출력한다.
-   
-    
-n = input()
 
-count = 0
-N = []
+#N값 input 받기
+#input받은 값부터 1까지 list화 시키기
+#각 list 순서대로 곱하기
 
-while count < n :
-    count += 1
-    N.append(count)
-    pass
-print(N)
+N = int(input())           
+
+list_N = []
+
+for i in range(N):
+    list_N.append(N)
+    N = N-1
 
 M = 1
-for i in range(n):
-    M = M * N[i]
-    pass
+for count in range(len(list_N)):
+    M = M*list_N[count]
+    
+print(M)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+# n = input()
+
+# count = 0
+# N = []
+
+# while count < n :
+#     count += 1
+#     N.append(count)
+#     pass
+# print(N)
+
+# M = 1
+# for i in range(n):
+#     M = M * N[i]
+#     pass
 
 
 
 
 
-###### 제출필요
+# ###### 제출필요
