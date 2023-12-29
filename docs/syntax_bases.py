@@ -13,12 +13,12 @@ def function_name():
     try: 
         pass        # 업무 코드 부분
     except:
-        pass        # 업무 코드 부분가 문제 발생 시 대처 코드
+        pass        # 업무 코드 부분 문제 발생 시 대처 코드
     finally:
         pass        # try나 except이 끝난 후 무조건 실행 코드   
     return 0
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     try: 
         pass        # 업무 코드 부분
     except:

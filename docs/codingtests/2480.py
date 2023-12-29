@@ -1,5 +1,5 @@
-list_dice = [10,29,35]
+list_dice = list(map(int, input().split()))
 
-num_max = min(list_dice)
+num_max = max(list_dice)
 
 print(num_max)
