@@ -11,6 +11,17 @@
 # 출력
 # 첫째 줄에 윤년이면 1, 아니면 0을 출력한다.
 
-# 연도 input받기
-# 4n이면 1, 100n이면 0
-# 예외적으로 400n이면 1
+leap_year = int(input())
+
+if leap_year%4 == 0:
+    if leap_year%100 != 0:
+        print("1")
+    elif leap_year%400 == 0:
+        print("1")
+    else :
+        print("0")
+else :
+    print("0")
+
+# 함수로 푸는 법 모르게쒀,,,,,,,,,,
+    
