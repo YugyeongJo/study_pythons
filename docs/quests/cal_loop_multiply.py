@@ -32,3 +32,5 @@ def calculator():
         result = num_multiply01 * num_multiply02
         print("결과는 {} 입니다.".format(result))
     return 0
+
+calculator()
