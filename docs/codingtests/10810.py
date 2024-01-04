@@ -13,12 +13,20 @@
 # 출력
 # 1번 바구니부터 N번 바구니에 들어있는 공의 번호를 공백으로 구분해 출력한다. 공이 들어있지 않은 바구니는 0을 출력한다.
 
-#제출자 출석번호를 list로 만들기
-#list 안에 해당 출석번호가 있으면 pass, 없으면 print(작은 순서대로)
+# 1) 모든 값 input받기
+# 2) 횟수만큼 for문으로 input받기
+# 3) 바구니에 숫자 넣어주기 but, 덮어쓰기 필요
+# 4) 최종 바구니 내용물 출력해주기
 
-student = list(range(29))
-submit_student = []
-for i in range(28):
-    submit = list(int(input()))
-    submit_student.append(submit)
+basket, count = map(int, input().split())
+result=[]
 
+for y in range(basket):
+    result.append(int("0"))
+
+for i in range(count):
+    a, b, c = map(int, input().split())
+    for x in range(a-1,b):
+        result[x]=c
+          
+print(*result) 
