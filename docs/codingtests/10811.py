@@ -22,5 +22,10 @@ for i in range(1, M+1):
 
 for count in range(N):
     i, j = map(int, input().split())
-    for x in range(i, j+1):
-        new_basket = 
+    pass
+    basket[i-1:j] = basket[i-1:j][::-1]
+    pass
+print(*basket)
+    # for x in range(i, j+1):
+    #     new_basket.append(basket[x])
+    # new_basket.reverse().append                                                                                
