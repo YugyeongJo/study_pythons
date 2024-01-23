@@ -18,5 +18,9 @@ if __name__ == "__main__":
         ,"name": "김철수"
     }
     #kwargs(**) 딕셔너리를 통째로 넘겨줄때 사용 / user 딕셔너리 통째로 넘겨주는거임
-    kwargs(**user)
+    #**의 특징 - 딕셔너리여야지만 가능, 딕셔너리를 function에 통째로 넘겨줌
+    #kwargs(email=user["email"], name=user["name"])
+    
+    # kwargs(**user)
+    kwargs(user)
     pass
