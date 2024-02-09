@@ -9,9 +9,13 @@
 
 # 출력
 #  $S$의 $i$번째 글자를 출력한다.
-
 str = list(input())
 num = int(input())
+def string(str,num):
+    answer = str[num-1]
+    return answer
 
-print(str[num-1])
+answer = string(str,num)
+
+print(answer)
 pass
