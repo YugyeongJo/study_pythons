@@ -5,13 +5,10 @@
 my_string = "jaron"
 
 def solution(my_string):
-    answer = my_string.reverse()
+    list_my_string = list(my_string)
+    list_my_string_reverse = list(reversed(list_my_string))
+    answer = ''.join(list_my_string_reverse)
     return answer
-
-# def solution(my_string):
-#     list_my_string = list(my_string)
-#     answer = list(reversed(list_my_string))
-#     return answer
 
 result = solution(my_string)
 print(result)
