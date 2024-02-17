@@ -16,7 +16,7 @@
 
   |구분|소스|문제설명|출처|
   |--|--|--|--|
-  |입출력과 사칙연산|[Python](https://github.com/YugyeongJo/study_pythons/blob/main/docs/codingtests/function/2557.py)|Hello World!를 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
+  |입출력과 사칙연산|[Python](./docs/codingtests/function/2557.py)|Hello World!를 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
   |입출력과 사칙연산|[Python](https://github.com/YugyeongJo/study_pythons/blob/main/docs/codingtests/function/1000.py)|A+B 출력|[백준 1000](https://www.acmicpc.net/problem/1000)|
   |입출력과 사칙연산|[Python](https://github.com/YugyeongJo/study_pythons/blob/main/docs/codingtests/function/1001.py)|A-B 출력|[백준 1001](https://www.acmicpc.net/problem/1001)|
   |입출력과 사칙연산|[Python](https://github.com/YugyeongJo/study_pythons/blob/main/docs/codingtests/function/10998.py)|A*B 출력|[백준 10998](https://www.acmicpc.net/problem/10998)|
