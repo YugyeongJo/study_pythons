@@ -29,10 +29,13 @@
   |입출력과 사칙연산|[Python](./docs/codingtests/function/11382.py)|A + B + C를 계산|[백준 11382](https://www.acmicpc.net/problem/11382)|
   |입출력과 사칙연산|[Python](./docs/codingtests/pure/10171.py)|고양이 출력|[백준 10171](https://www.acmicpc.net/problem/10171)|
   |입출력과 사칙연산|[Python](./docs/codingtests/pure/10172.py)|개 출력|[백준 10172](https://www.acmicpc.net/problem/10172)|
+</details>
 
+<details>
   <summary>프로그래머스</summary>
   
   |구분|소스|문제설명|출처|
   |--|--|--|--|
-
+  |입문문제|[Python](./docs/codingtests/programmers/120898.py)|편지지의 최소 가로길이 출력|[프로그래머스 120898](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|
+  |입문문제|[Python](./docs/codingtests/programmers/120804.py)|두 수의 곱 출력|[프로그래머스 120804](https://school.programmers.co.kr/learn/courses/30/lessons/120804)|
 </details>
