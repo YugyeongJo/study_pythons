@@ -10,7 +10,6 @@
 </details>
 
 ## Coding Test
-
 <details>
 
   <summary>백준</summary>
