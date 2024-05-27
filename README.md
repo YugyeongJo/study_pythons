@@ -81,39 +81,42 @@
   <summary>프로그래머스</summary>
   
   |NO|구분|소스|문제설명|출처|
-  |--|--|--|--|--|
-  |1|입문문제|[Python](./docs/codingtests/programmers/120898.py)|편지지의 최소 가로길이 출력|[프로그래머스 120898](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|
-  |2|입문문제|[Python](./docs/codingtests/programmers/120804.py)|두 수의 곱 출력|[프로그래머스 120804](https://school.programmers.co.kr/learn/courses/30/lessons/120804)|
-  |3|입문문제|[Python](./docs/codingtests/programmers/120807.py)|숫자 비교하기|[프로그래머스 120807](https://school.programmers.co.kr/learn/courses/30/lessons/120807)|
-  |4|입문문제|[Python]()|두 수의 차 출력|[프로그래머스 120803](https://school.programmers.co.kr/learn/courses/30/lessons/120803)|
-  |5|입문문제|[Python]()|나머지 구하기|[프로그래머스 120810](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|
-  |6|입문문제|[Python]()|몫 구하기|[프로그래머스 120805](https://school.programmers.co.kr/learn/courses/30/lessons/120805)|
-  |7|입문문제|[Python]()|나이 구하기|[프로그래머스 120820](https://school.programmers.co.kr/learn/courses/30/lessons/120820)|
-  |8|입문문제|[Python]()|두 수의 합 출력|[프로그래머스 120802](https://school.programmers.co.kr/learn/courses/30/lessons/120802)|
-  |9|입문문제|[Python]()|두 수의 나눗셈 출력|[프로그래머스 120806](https://school.programmers.co.kr/learn/courses/30/lessons/120806)|
-  |10|입문문제|[Python]()|각도에 따른 분류 구하기|[프로그래머스 120829](https://school.programmers.co.kr/learn/courses/30/lessons/120829)|
-  |11|입문문제|[Python]()|짝수의 합 구하기|[프로그래머스 120831](https://school.programmers.co.kr/learn/courses/30/lessons/120831)|
-  |12|입문문제|[Python]()|배열의 평균값 구하기|[프로그래머스 120817](https://school.programmers.co.kr/learn/courses/30/lessons/120817)|
-  |13|입문문제|[Python]()|키 큰 사람 수 구하기|[프로그래머스 120585](https://school.programmers.co.kr/learn/courses/30/lessons/120585)|
-  |14|입문문제|[Python]()|배열 뒤집기|[프로그래머스 120821](https://school.programmers.co.kr/learn/courses/30/lessons/120821)|
-  |15|입문문제|[Python]()|배열 원소의 길이 구하기|[프로그래머스 120854](https://school.programmers.co.kr/learn/courses/30/lessons/120854)|
-  |16|입문문제|[Python]()|중복된 숫자 갯수 구하기|[프로그래머스 120583](https://school.programmers.co.kr/learn/courses/30/lessons/120583)|
-  |17|입문문제|[Python]()|피자 수 구하기|[프로그래머스 120816](https://school.programmers.co.kr/learn/courses/30/lessons/120816)|
-  |18|입문문제|[Python]()|문자열 뒤집기|[프로그래머스 120822](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|
-  |19|입문문제|[Python]()|배열 자르기|[프로그래머스 120833](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|
-  |20|입문문제|[Python]()|피자 수 구하기|[프로그래머스 120814](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|
-  |21|입문문제|[Python]()|최종 금액 구하기|[프로그래머스 120830](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|
-  |22|입문문제|[Python]()|구매가능 수량 및 거스름돈 구하기|[프로그래머스 120819](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|
-  |23|입문문제|[Python]()|배열 두배 만들기|[프로그래머스 120809](https://school.programmers.co.kr/learn/courses/30/lessons/120809)|
-  |24|입문문제|[Python]()|4분면 위치 구하기|[프로그래머스 120841](https://school.programmers.co.kr/learn/courses/30/lessons/120841)|
-  |25|입문문제|[Python]()|문자 반복 출력|[프로그래머스 120825](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|
-  |26|입문문제|[Python]()|짝수 홀수 개수 구하기|[프로그래머스 120824](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|
-  |27|입문문제|[Python]()|특정 문자 제거하기|[프로그래머스 120826](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|
-  |28|입문문제|[Python]()|최댓값 만들기|[프로그래머스 120847](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|
-  |29|입문문제|[Python]()|중앙값 구하기|[프로그래머스 120811](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|
-  |30|입문문제|[Python]()|문자열안에 특정 문자열 확인하기|[프로그래머스 120908](https://school.programmers.co.kr/learn/courses/30/lessons/120908)|
-  |31|입문문제|[Python]()|배열의 유사도 확인하기|[프로그래머스 120903](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|
-  |32|입문문제|[Python]()|세균 증식 수 구하기|[프로그래머스 120910](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|
-  |33|입문문제|[Python]()|옷가게 할인 후 최종 금액 구하기|[프로그래머스 120818](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|
-  |34|입문문제|[Python]()|순서쌍의 개수 구하기|[프로그래머스 120836](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|
+|--|--|--|--|--|
+|1|입문문제|[Python](./docs/codingtests/programmers/120898.py)|편지지의 최소 가로길이 출력|[프로그래머스 120898](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|
+|2|입문문제|[Python](./docs/codingtests/programmers/120804.py)|두 수의 곱 출력|[프로그래머스 120804](https://school.programmers.co.kr/learn/courses/30/lessons/120804)|
+|3|입문문제|[Python](./docs/codingtests/programmers/120807.py)|숫자 비교하기|[프로그래머스 120807](https://school.programmers.co.kr/learn/courses/30/lessons/120807)|
+|4|입문문제|[Python](./docs/codingtests/programmers/120803.py)|두 수의 차 출력|[프로그래머스 120803](https://school.programmers.co.kr/learn/courses/30/lessons/120803)|
+|5|입문문제|[Python](./docs/codingtests/programmers/120810.py)|나머지 구하기|[프로그래머스 120810](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|
+|6|입문문제|[Python](./docs/codingtests/programmers/120805.py)|몫 구하기|[프로그래머스 120805](https://school.programmers.co.kr/learn/courses/30/lessons/120805)|
+|7|입문문제|[Python](./docs/codingtests/programmers/120802.py)|나이 구하기|[프로그래머스 120820](https://school.programmers.co.kr/learn/courses/30/lessons/120820)|
+|8|입문문제|[Python](./docs/codingtests/programmers/120806.py)|두 수의 합 출력|[프로그래머스 120802](https://school.programmers.co.kr/learn/courses/30/lessons/120802)|
+|9|입문문제|[Python](./docs/codingtests/programmers/120807.py)|두 수의 나눗셈 출력|[프로그래머스 120806](https://school.programmers.co.kr/learn/courses/30/lessons/120806)|
+|10|입문문제|[Python](./docs/codingtests/programmers/120829.py)|각도에 따른 분류 구하기|[프로그래머스 120829](https://school.programmers.co.kr/learn/courses/30/lessons/120829)|
+|11|입문문제|[Python](./docs/codingtests/programmers/120831.py)|짝수의 합 구하기|[프로그래머스 120831](https://school.programmers.co.kr/learn/courses/30/lessons/120831)|
+|12|입문문제|[Python](./docs/codingtests/programmers/120817.py)|배열의 평균값 구하기|[프로그래머스 120817](https://school.programmers.co.kr/learn/courses/30/lessons/120817)|
+|13|입문문제|[Python](./docs/codingtests/programmers/120585.py)|키 큰 사람 수 구하기|[프로그래머스 120585](https://school.programmers.co.kr/learn/courses/30/lessons/120585)|
+|14|입문문제|[Python](./docs/codingtests/programmers/120821.py)|배열 뒤집기|[프로그래머스 120821](https://school.programmers.co.kr/learn/courses/30/lessons/120821)|
+|15|입문문제|[Python](./docs/codingtests/programmers/120854.py)|배열 원소의 길이 구하기|[프로그래머스 120854](https://school.programmers.co.kr/learn/courses/30/lessons/120854)|
+|16|입문문제|[Python](./docs/codingtests/programmers/120583.py)|중복된 숫자 갯수 구하기|[프로그래머스 120583](https://school.programmers.co.kr/learn/courses/30/lessons/120583)|
+|17|입문문제|[Python](./docs/codingtests/programmers/120816.py)|피자 수 구하기|[프로그래머스 120816](https://school.programmers.co.kr/learn/courses/30/lessons/120816)|
+|18|입문문제|[Python](./docs/codingtests/programmers/120822.py)|문자열 뒤집기|[프로그래머스 120822](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|
+|19|입문문제|[Python](./docs/codingtests/programmers/120833.py)|배열 자르기|[프로그래머스 120833](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|
+|20|입문문제|[Python](./docs/codingtests/programmers/120814.py)|피자 수 구하기|[프로그래머스 120814](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|
+|21|입문문제|[Python](./docs/codingtests/programmers/120830.py)|최종 금액 구하기|[프로그래머스 120830](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|
+|22|입문문제|[Python](./docs/codingtests/programmers/120819.py)|구매가능 수량 및 거스름돈 구하기|[프로그래머스 120819](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|
+|23|입문문제|[Python](./docs/codingtests/programmers/120809.py)|배열 두배 만들기|[프로그래머스 120809](https://school.programmers.co.kr/learn/courses/30/lessons/120809)|
+|24|입문문제|[Python](./docs/codingtests/programmers/120841.py)|4분면 위치 구하기|[프로그래머스 120841](https://school.programmers.co.kr/learn/courses/30/lessons/120841)|
+|25|입문문제|[Python](./docs/codingtests/programmers/120825.py)|문자 반복 출력|[프로그래머스 120825](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|
+|26|입문문제|[Python](./docs/codingtests/programmers/120824.py)|짝수 홀수 개수 구하기|[프로그래머스 120824](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|
+|27|입문문제|[Python](./docs/codingtests/programmers/120826.py)|특정 문자 제거하기|[프로그래머스 120826](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|
+|28|입문문제|[Python](./docs/codingtests/programmers/120847.py)|최댓값 만들기|[프로그래머스 120847](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|
+|29|입문문제|[Python](./docs/codingtests/programmers/120811.py)|중앙값 구하기|[프로그래머스 120811](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|
+|30|입문문제|[Python](./docs/codingtests/programmers/120908.py)|문자열안에 특정 문자열 확인하기|[프로그래머스 120908](https://school.programmers.co.kr/learn/courses/30/lessons/120908)|
+|31|입문문제|[Python](./docs/codingtests/programmers/120903.py)|배열의 유사도 확인하기|[프로그래머스 120903](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|
+|32|입문문제|[Python](./docs/codingtests/programmers/120910.py)|세균 증식 수 구하기|[프로그래머스 120910](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|
+|33|입문문제|[Python](./docs/codingtests/programmers/120818.py)|옷가게 할인 후 최종 금액 구하기|[프로그래머스 120818](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|
+|34|입문문제|[Python](./docs/codingtests/programmers/120836.py)|순서쌍의 개수 구하기|[프로그래머스 120836](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|
+|35|입문문제|[Python](./docs/codingtests/programmers/120813.py)|짝수는 싫어요|[프로그래머스 120813](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|
+|36|입문문제|[Python](./docs/codingtests/programmers/120837.py)|개미 군단|[프로그래머스 120837](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|
+|37|입문문제|[Python](./docs/codingtests/programmers/120839.py)|가위 바위 보|[프로그래머스 120839](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|
 </details>
