@@ -6,3 +6,15 @@
 # 그 문자열에서 code의 배수 번째 글자만 진짜 암호입니다.
 # 문자열 cipher와 정수 code가 매개변수로 주어질 때 해독된 암호 문자열을 return하도록 solution 함수를 완성해주세요.
 
+cipher = "pfqallllabwaoclk"	
+code = 2
+def solution(cipher, code):
+    list_variable = []
+    num = int(len(cipher)/code)
+    for i in range(1, num+1):
+        result = cipher[(code*i)-1]
+        list_variable.append(result)
+        answer = "".join(list_variable)
+    return answer
+
+print(solution(cipher, code))

@@ -7,15 +7,15 @@
 # 1 ≤ my_string의 길이 ≤ 1,000
 # my_string은 소문자, 대문자 그리고 한자리 자연수로만 구성되어있습니다.
 
-my_string = "aAb1B2cC34oOp"	
+my_string = "1a2b3c4d123"	
 
 def solution(my_string):
-    result = 0
+    answer = 0
     for i in range(len(my_string)):
-        try:
-            answer = result + answer[i]
-        except:
-            pass
+        if my_string[i].isnumeric() == True:
+            answer = answer + int(my_string[i])
+        else:
+            answer = answer
     return answer
 
 print(solution(my_string))
