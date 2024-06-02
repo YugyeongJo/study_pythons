@@ -117,12 +117,9 @@
 |33|LEVEL0|[Python](./docs/codingtests/programmers/120818.py)|옷가게 할인 후 최종 금액 구하기|[프로그래머스 120818](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|
 |34|LEVEL0|[Python](./docs/codingtests/programmers/120836.py)|순서쌍의 개수 구하기|[프로그래머스 120836](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|
 |35|LEVEL0|[Python](./docs/codingtests/programmers/120813.py)|짝수는 싫어요|[프로그래머스 120813](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|
-|36|LEVEL0|[Python](./docs/codingtests/programmers/120837.py)|개미 군단
-|[프로그래머스 120837](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|
-|37|LEVEL0|[Python](./docs/codingtests/programmers/120839.py)|가위 바위 보
-|[프로그래머스 120839](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|
-|38|LEVEL0|[Python](./docs/codingtests/programmers/120851.py)|숨어있는 숫자의 덧셈 (1)
-|[프로그래머스 120851](https://school.programmers.co.kr/learn/courses/30/lessons/120851)|
+|36|LEVEL0|[Python](./docs/codingtests/programmers/120837.py)|개미 군단|[프로그래머스 120837](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|
+|37|LEVEL0|[Python](./docs/codingtests/programmers/120839.py)|가위 바위 보|[프로그래머스 120839](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|
+|38|LEVEL0|[Python](./docs/codingtests/programmers/120851.py)|숨어있는 숫자의 덧셈 (1)|[프로그래머스 120851](https://school.programmers.co.kr/learn/courses/30/lessons/120851)|
 |39|LEVEL0|[Python](./docs/codingtests/programmers/120892.py)|암호 해독|[프로그래머스 120892](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|
 |40|LEVEL0|[Python](./docs/codingtests/programmers/120893.py)|대문자와 소문자|[프로그래머스 120893](https://school.programmers.co.kr/learn/courses/30/lessons/120893)|
 |41|LEVEL0|[Python](./docs/codingtests/programmers/120899.py)|가장 큰 수 찾기
@@ -130,4 +127,75 @@
 |42|LEVEL0|[Python](./docs/codingtests/programmers/120905.py)|n의 배수 고르기|[프로그래머스 120905](https://school.programmers.co.kr/learn/courses/30/lessons/120905)|
 |43|LEVEL0|[Python](./docs/codingtests/programmers/181889.py)|n 번째 원소까지
 |[프로그래머스 181889](https://school.programmers.co.kr/learn/courses/30/lessons/181889)|
+|44|LEVEL0|[Python](./docs/codingtests/programmers/181892.py)|n 번째 원소부터
+|[프로그래머스 181892](https://school.programmers.co.kr/learn/courses/30/lessons/181892)|
+|45|LEVEL0|[Python](./docs/codingtests/programmers/181896.py)|첫 번째로 나오는 음수
+|[프로그래머스 181896](https://school.programmers.co.kr/learn/courses/30/lessons/181896)|
+|46|LEVEL0|[Python](./docs/codingtests/programmers/181899.py)|카운트 다운
+|[프로그래머스 181899](https://school.programmers.co.kr/learn/courses/30/lessons/181899)|
+|47|LEVEL0|[Python](./docs/codingtests/programmers/181901.py)|배열 만들기 1
+|[프로그래머스 181901](https://school.programmers.co.kr/learn/courses/30/lessons/181901)|
+|48|LEVEL0|[Python](./docs/codingtests/programmers/181906.py)|접두사인지 확인하기
+|[프로그래머스 181906](https://school.programmers.co.kr/learn/courses/30/lessons/181906)|
+|49|LEVEL0|[Python](./docs/codingtests/programmers/181907.py)|문자열의 앞의 n글자
+|[프로그래머스 181907](https://school.programmers.co.kr/learn/courses/30/lessons/181907)|
+|50|LEVEL0|[Python](./docs/codingtests/programmers/181908.py)|접미사인지 확인하기|[프로그래머스 181908](https://school.programmers.co.kr/learn/courses/30/lessons/181908)|
+|51|LEVEL0|[Python](./docs/codingtests/programmers/181910.py)|문자열의 뒤의 n글자|[프로그래머스 181910](https://school.programmers.co.kr/learn/courses/30/lessons/181910)|
+|52|LEVEL0|[Python](./docs/codingtests/programmers/181915.py)|글자 이어 붙여 문자열 만들기
+|[프로그래머스 181915](https://school.programmers.co.kr/learn/courses/30/lessons/181915)|
+|53|LEVEL0|[Python](./docs/codingtests/programmers/181920.py)|카운트 업
+|[프로그래머스 181920](https://school.programmers.co.kr/learn/courses/30/lessons/181920)|
+|54|LEVEL0|[Python](./docs/codingtests/programmers/181926.py)|수 조작하기 1
+|[프로그래머스 181926](https://school.programmers.co.kr/learn/courses/30/lessons/181926)|
+|55|LEVEL0|[Python](./docs/codingtests/programmers/181927.py)|마지막 두 원소|[프로그래머스 181927](https://school.programmers.co.kr/learn/courses/30/lessons/181927)|
+|56|LEVEL0|[Python](./docs/codingtests/programmers/181928.py)|이어 붙인 수
+|[프로그래머스 181928](https://school.programmers.co.kr/learn/courses/30/lessons/181928)|
+|57|LEVEL0|[Python](./docs/codingtests/programmers/181929.py)|원소들의 곱과 합
+|[프로그래머스 181929](https://school.programmers.co.kr/learn/courses/30/lessons/181929)|
+|58|LEVEL0|[Python](./docs/codingtests/programmers/181933.py)|flag에 따라 다른 값 반환하기
+|[프로그래머스 181933](https://school.programmers.co.kr/learn/courses/30/lessons/181933)|
+|59|LEVEL0|[Python]()||[프로그래머스 0000]()|
+|60|LEVEL1|[Python](./docs/codingtests/programmers/12916.py)|문자열 내 p와 y의 개수
+|[프로그래머스 12916](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|
+|61|LEVEL1|[Python](./docs/codingtests/programmers/12925.py)|문자열을 정수로 바꾸기
+|[프로그래머스 12925](https://school.programmers.co.kr/learn/courses/30/lessons/12925)|
+|62|LEVEL1|[Python](./docs/codingtests/programmers/12928.py)|약수의 합
+|[프로그래머스 12928](https://school.programmers.co.kr/learn/courses/30/lessons/12928)|
+|63|LEVEL1|[Python](./docs/codingtests/programmers/12931.py)|자릿수 더하기
+|[프로그래머스 12931](https://school.programmers.co.kr/learn/courses/30/lessons/12931)|
+|64|LEVEL1|[Python](./docs/codingtests/programmers/12932.py)|자연수 뒤집어 배열로 만들기
+|[프로그래머스 12932](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|
+|65|LEVEL1|[Python](./docs/codingtests/programmers/12933.py)|정수 내림차순으로 배치하기
+|[프로그래머스 12933](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|
+|66|LEVEL1|[Python](./docs/codingtests/programmers/12934.py)|정수 제곱근 판별
+|[프로그래머스 12934](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|
+|67|LEVEL1|[Python](./docs/codingtests/programmers/12937.py)|짝수와 홀수
+|[프로그래머스 12937](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|
+|68|LEVEL1|[Python](./docs/codingtests/programmers/12944.py)|평균 구하기
+|[프로그래머스 12944](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|
+|69|LEVEL1|[Python](./docs/codingtests/programmers/12947.py)|하샤드 수
+|[프로그래머스 12947](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|
+|70|LEVEL1|[Python](./docs/codingtests/programmers/12954.py)|x만큼 간격이 있는 n개의 숫자
+|[프로그래머스 12954](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|
+|71|LEVEL1|[Python](./docs/codingtests/programmers/87389.py)|나머지가 1이 되는 수 찾기
+|[프로그래머스 87389](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|
+|72|LEVEL1|[Python](./docs/codingtests/programmers/12912.py)|두 정수 사이의 합
+|[프로그래머스 12912](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|
+|73|LEVEL1|[Python](./docs/codingtests/programmers/12919.py)|서울에서 김서방 찾기
+|[프로그래머스 12919](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|
+|74|LEVEL1|[Python](./docs/codingtests/programmers/76501.py)|음양 더하기
+|[프로그래머스 76501](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|
+|75|LEVEL1|[Python](./docs/codingtests/programmers/86051.py)|없는 숫자 더하기
+|[프로그래머스 86051](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|
+|76|LEVEL1|[Python](./docs/codingtests/programmers/12910.py)|나누어 떨어지는 숫자 배열
+|[프로그래머스 12910](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|
+|77|LEVEL1|[Python](./docs/codingtests/programmers/12948.py)|핸드폰 번호 가리기
+|[프로그래머스 12948](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|
+|78|LEVEL1|[Python](./docs/codingtests/programmers/12935.py)|제일 작은 수 제거하기
+|[프로그래머스 12935](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|
+|79|LEVEL1|[Python](./docs/codingtests/programmers/12943.py)|콜라츠 추측|[프로그래머스 12943](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|
+|80|LEVEL1|[Python](./docs/codingtests/programmers/12903.py)|가운데 글자 가져오기
+|[프로그래머스 12903](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|
+|81|LEVEL1|[Python](./docs/codingtests/programmers/12922.py)|수박수박수박수박수박수?
+|[프로그래머스 12922](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|
 </details>

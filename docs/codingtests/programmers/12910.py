@@ -10,8 +10,8 @@
 # divisor는 자연수입니다.
 # array는 길이 1 이상인 배열입니다.
 
-arr = [2, 36, 1, 3]
-divisor = 1
+arr = [3,2,6]
+divisor = 10
     
 def solution(arr, divisor):
     answer = []
@@ -22,8 +22,11 @@ def solution(arr, divisor):
         else :
             pass
         
-        if answer == []:
-            answer.append(-1)
+    if answer == []:
+        answer.append(-1)
+    else:
+        answer = answer
+        
     return answer
 
 print(solution(arr, divisor))
