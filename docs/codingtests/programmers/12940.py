@@ -11,37 +11,20 @@ m = 5
 
 def solution(n, m):
     answer = []
-    n_a = []
-    m_a = []
-    for i in range(2, n+1):
-        if n%i == 0 :
-            n_a.append(i)
-            
-    for j in range(2, m+1):
-        if m%j == 0 :
-            m_a.append(j)
-            
-    for x in n_a:
-        for y in m_a:
-            if x == y:
-                answer.append(x)
-                break
 
-    if len(answer) == 0:
-        answer = [1]
-    else:
-        pass
+    # 최대공약수 구하기
+    for i in range(min(n, m), 0, -1):
+        if n%i == 0 and m%i == 0:
+            answer.append(i)
+            break
+
     
+    # 최소공배수 구하기
+    for j in range(max(n, m), (n*m)+1):
+        if j%n == 0 and j%m == 0:
+            answer.append(j)
+            break
 
-    result = []
-    for k in range(1, (n*m)+1):
-        for z in range(1, (n*m)+1):
-            if n*k != m*z:
-                pass
-            else:
-                result.append(n*k)
-                break
-    answer.append(result[0])
     return answer
 
 print(solution(n, m))
