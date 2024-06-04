@@ -1,13 +1,23 @@
-## 코드 블럭
-```
-~$ python ./solving_problems_functions.py
-~$ python ./solving_problems_classes.py
-```
-## summary
-<details open>
-  <summary>Summary</summary>
-  <p>추가적인 정보가 여기에 표시됩니다.</p>
-</details>
+# 📚 study_pythons
+
+## 🛠️ Tech Stack
+
+|<center>VScode</center>|<center>Pythons</center>|
+|--|--|
+|<p align="center"><img alt="vscode" src="./icons/VSCode-Light.svg" width="48"></p>|<p align="center"><img alt="html" src="./icons/HTML.svg" width="48"></p>|
+|<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">|<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">|
+
+## 💻 File
+
+|번호|구분|파일(code)|설명|비고|
+|--|--|--|--|--|
+||||||
+
+## 📈 Quest
+
+|번호|구분|파일(code)|설명|비고|
+|--|--|--|--|--|
+||||||
 
 ## Coding Test
 <details>
@@ -178,3 +188,9 @@
 |94|LEVEL1|[Python](./docs/codingtests/programmers/12930.py)|이상한 문자 만들기|[프로그래머스 12930](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|
 
 </details>
+
+## 코드 블럭
+```
+~$ python ./solving_problems_functions.py
+~$ python ./solving_problems_classes.py
+```
