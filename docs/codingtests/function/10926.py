@@ -9,6 +9,4 @@ def surprise(str_A):
     result = str_A+"??!"
     return result
 
-answer = surprise(str_A)
-
-print(answer)
+print(surprise(str_A))

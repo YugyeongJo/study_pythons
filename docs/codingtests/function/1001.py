@@ -10,10 +10,8 @@
 
 A,B = map(int, input().split())
 
-add = A-B
+def pt(A,B):
+    minus = A-B
+    return minus
 
-def pt(x):
-    print(x)
-    return
-
-pt(add)
+print(pt(A,B))

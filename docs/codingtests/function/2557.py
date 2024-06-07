@@ -3,8 +3,9 @@
 # 입력 (없음)
 # 출력 (Hello World!를 출력하시오.)
 
-def pt():
-    print("Hello World!")
-    return
+str = "Hello World!"
+def pt(str):
+    answer = str
+    return answer
 
-pt()
+print(pt(str))

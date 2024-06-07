@@ -15,6 +15,4 @@ def multiple(a, b):
     multiply = a * b 
     return multiply
 
-answer = multiple(a, b)
-
-print(answer)
+print(multiple(a, b))
