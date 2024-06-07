@@ -31,14 +31,18 @@ def divide02(a, b):
     divide02 = a%b
     return divide02
 
-answer01 = add(a, b)
-answer02 = minus(a, b)
-answer03 = multiple(a, b)
-answer04 = divide01(a, b)
-answer05 = divide02(a, b)
+print(add(a, b))
+print(minus(a, b))
+print(multiple(a, b))
+print(divide01(a, b))
+print(divide02(a, b))
 
-print(answer01)
-print(answer02)
-print(answer03)
-print(answer04)
-print(answer05)
+# def calculation(a, b):
+#     add = a+b
+#     minus = a-b
+#     multiple = a*b
+#     divide01 = a//b
+#     divide02 = a%b
+#     return add, minus, multiple, divide01, divide02
+
+# print(calculation(a, b))

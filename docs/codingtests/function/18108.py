@@ -17,6 +17,4 @@ def year(A):
     result = A - 543
     return result
 
-answer = year(A)
-
-print(answer)
+print(year(A))
