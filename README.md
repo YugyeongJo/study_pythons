@@ -23,68 +23,68 @@
 <details>
 
   <summary>백준</summary>
-
-  |구분|소스|문제설명|출처|
-  |--|--|--|--|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/2557.py)|Hello World!를 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/1000.py)|A+B 출력|[백준 1000](https://www.acmicpc.net/problem/1000)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/1001.py)|A-B 출력|[백준 1001](https://www.acmicpc.net/problem/1001)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/10998.py)|A*B 출력|[백준 10998](https://www.acmicpc.net/problem/10998)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/1008.py)|A/B 출력|[백준 1008](https://www.acmicpc.net/problem/1008)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/10869.py)|사칙연산|[백준 10869](https://www.acmicpc.net/problem/10869)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/10926.py)|??! 출력|[백준 10926](https://www.acmicpc.net/problem/10926)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/18108.py)|서기 연도로 변환 출력|[백준 18108](https://www.acmicpc.net/problem/18108)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/10430.py)|값 구하기|[백준 10430](https://www.acmicpc.net/problem/10430)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/2588.py)|세 자리 수 곱셈 출력|[백준 2588](https://www.acmicpc.net/problem/2588)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/function/11382.py)|A + B + C를 계산|[백준 11382](https://www.acmicpc.net/problem/11382)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/pure/10171.py)|고양이 출력|[백준 10171](https://www.acmicpc.net/problem/10171)|
-  |입출력과 사칙연산|[Python](./docs/codingtests/pure/10172.py)|개 출력|[백준 10172](https://www.acmicpc.net/problem/10172)|
-  |조건문|[Python]()|두 수 비교하기|[백준 1330](https://www.acmicpc.net/problem/1330)|
-  |조건문|[Python]()|시험 성적 출력하기|[백준 9498](https://www.acmicpc.net/problem/9498)|
-  |조건문|[Python]()|윤년 구하기|[백준 2753](https://www.acmicpc.net/problem/2753)|
-  |조건문|[Python]()|사분면 고르기|[백준 14681](https://www.acmicpc.net/problem/14681)|
-  |조건문|[Python]()|알람 시간 출력|[백준 2884](https://www.acmicpc.net/problem/2884)|
-  |조건문|[Python]()|시각 구하기|[백준 2525](https://www.acmicpc.net/problem/2525)|
-  |조건문|[Python]()|첫째 줄에 3개의 눈구하기|[백준 2480](https://www.acmicpc.net/problem/2480)|
-  |반복문|[Python]()|구구단 N단 출력|[백준 2739](https://www.acmicpc.net/problem/2739)|
-  |반복문|[Python]()| A+B 출력|[백준 10950](https://www.acmicpc.net/problem/10950)|
-  |반복문|[Python]()|1부터 n까지 합 구하기|[백준 8393](https://www.acmicpc.net/problem/8393)|
-  |반복문|[Python]()|영수증 금액 구하기|[백준 25304](https://www.acmicpc.net/problem/25304)|
-  |반복문|[Python]()|정수 자료형의 이름 출력|[백준 25314](https://www.acmicpc.net/problem/25314)|
-  |반복문|[Python]()|A+B 출력|[백준 15552](https://www.acmicpc.net/problem/15552)|
-  |반복문|[Python]()|A+B 출력|[백준 11021](https://www.acmicpc.net/problem/11021)|
-  |반복문|[Python]()|A+B 출력|[백준 11022](https://www.acmicpc.net/problem/11022)|
-  |반복문|[Python]()|별 찍기|[백준 2438](https://www.acmicpc.net/problem/2438)|
-  |반복문|[Python]()|별 찍기|[백준 2439](https://www.acmicpc.net/problem/2439)|
-  |반복문|[Python]()|A+B 출력|[백준 10952](https://www.acmicpc.net/problem/10952)|
-  |반복문|[Python]()|A+B 출력|[백준 10951](https://www.acmicpc.net/problem/10951)|
-  |1차원 배열|[Python]()|개수 세기|[백준 10807](https://www.acmicpc.net/problem/10807)|
-  |1차원 배열|[Python]()|X보다 작은 수|[백준 10871](https://www.acmicpc.net/problem/10871)|
-  |1차원 배열|[Python]()|최솟값 최댓값 구하기|[백준 10818](https://www.acmicpc.net/problem/10818)|
-  |1차원 배열|[Python]()|최댓값 구하기|[백준 2562](https://www.acmicpc.net/problem/2562)|
-  |1차원 배열|[Python]()|바구니에 공넣기|[백준 10810](https://www.acmicpc.net/problem/10810)|
-  |1차원 배열|[Python]()|공 바꾸기|[백준 10813](https://www.acmicpc.net/problem/10813)|
-  |1차원 배열|[Python]()|과제 제출 안한 사람 찾기|[백준 5597](https://www.acmicpc.net/problem/5597)|
-  |1차원 배열|[Python]()|서로 다른 나머지 구하기|[백준 3052](https://www.acmicpc.net/problem/3052)|
-  |1차원 배열|[Python]()|바구니 뒤집기|[백준 10811](https://www.acmicpc.net/problem/10811)|
-  |1차원 배열|[Python]()|평균 구하기|[백준 1546](https://www.acmicpc.net/problem/1546)|
-  |문자열|[Python]()|i번째 글자 출력|[백준 27866](https://www.acmicpc.net/problem/27866)|
-  |문자열|[Python]()|단어 길이 출력|[백준 2743](https://www.acmicpc.net/problem/2743)|
-  |문자열|[Python]()|문자열 첫 글자와 마지막 글자 출력|[백준 9086](https://www.acmicpc.net/problem/9086)|
-  |문자열|[Python]()|아스키 코드 값 구하기|[백준 11654](https://www.acmicpc.net/problem/11654)|
-  |문자열|[Python]()|숫자 N개의 합 출력|[백준 11720](https://www.acmicpc.net/problem/117200)|
-  |문자열|[Python]()|알파벳 찾기|[백준 10809](https://www.acmicpc.net/problem/10809)|
-  |문자열|[Python]()|문자열 반복하기|[백준 2675](https://www.acmicpc.net/problem/2675)|
-  |문자열|[Python]()|단어의 개수 출력|[백준 1152](https://www.acmicpc.net/problem/1152)|
-  |문자열|[Python]()|거꾸로 읽기|[백준 2908](https://www.acmicpc.net/problem/2908)|
-  |문자열|[Python]()|다이얼|[백준 5622](https://www.acmicpc.net/problem/5622)|
-  |문자열|[Python]()|입력받은 그대로 출력|[백준 11718](https://www.acmicpc.net/problem/11718)|
-  |심화 1|[Python]()|새싹 출력|[백준 25083](https://www.acmicpc.net/problem/25083)|
-  |심화 1|[Python]()|체스 피스 구하기|[백준 3003](https://www.acmicpc.net/problem/3003)|
-  |심화 1|[Python]()|별 찍기|[백준 2444](https://www.acmicpc.net/problem/2444)|
-  |심화 1|[Python]()|팰린드롬인지 확인하기|[백준 10988](https://www.acmicpc.net/problem/10988)|
-  |심화 1|[Python]()|반복 문자열 확인하기|[백준 1157](https://www.acmicpc.net/problem/1157)|
-  |심화 1|[Python]()|크로아티아 알파벳|[백준 2941](https://www.acmicpc.net/problem/2941)|
+  
+|NO|구분|소스|문제설명|출처|
+|--|--|--|--|--|
+|1|입출력과 사칙연산|[Python](./docs/codingtests/function/2557.py)|Hello World!를 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
+|2|입출력과 사칙연산|[Python](./docs/codingtests/function/1000.py)|A+B 출력|[백준 1000](https://www.acmicpc.net/problem/1000)|
+|3|입출력과 사칙연산|[Python](./docs/codingtests/function/1001.py)|A-B 출력|[백준 1001](https://www.acmicpc.net/problem/1001)|
+|4|입출력과 사칙연산|[Python](./docs/codingtests/function/10998.py)|A*B 출력|[백준 10998](https://www.acmicpc.net/problem/10998)|
+|5|입출력과 사칙연산|[Python](./docs/codingtests/function/1008.py)|A/B 출력|[백준 1008](https://www.acmicpc.net/problem/1008)|
+|6|입출력과 사칙연산|[Python](./docs/codingtests/function/10869.py)|사칙연산|[백준 10869](https://www.acmicpc.net/problem/10869)|
+|7|입출력과 사칙연산|[Python](./docs/codingtests/function/10926.py)|??! 출력|[백준 10926](https://www.acmicpc.net/problem/10926)|
+|8|입출력과 사칙연산|[Python](./docs/codingtests/function/18108.py)|서기 연도로 변환 출력|[백준 18108](https://www.acmicpc.net/problem/18108)|
+|9|입출력과 사칙연산|[Python](./docs/codingtests/function/10430.py)|값 구하기|[백준 10430](https://www.acmicpc.net/problem/10430)|
+|10|입출력과 사칙연산|[Python](./docs/codingtests/function/2588.py)|세 자리 수 곱셈 출력|[백준 2588](https://www.acmicpc.net/problem/2588)|
+|11|입출력과 사칙연산|[Python](./docs/codingtests/function/11382.py)|A + B + C를 계산|[백준 11382](https://www.acmicpc.net/problem/11382)|
+|12|입출력과 사칙연산|[Python](./docs/codingtests/pure/10171.py)|고양이 출력|[백준 10171](https://www.acmicpc.net/problem/10171)|
+|13|입출력과 사칙연산|[Python](./docs/codingtests/pure/10172.py)|개 출력|[백준 10172](https://www.acmicpc.net/problem/10172)|
+|14|조건문|[Python]()|두 수 비교하기|[백준 1330](https://www.acmicpc.net/problem/1330)|
+|15|조건문|[Python]()|시험 성적 출력하기|[백준 9498](https://www.acmicpc.net/problem/9498)|
+|16|조건문|[Python]()|윤년 구하기|[백준 2753](https://www.acmicpc.net/problem/2753)|
+|17|조건문|[Python]()|사분면 고르기|[백준 14681](https://www.acmicpc.net/problem/14681)|
+|18|조건문|[Python]()|알람 시간 출력|[백준 2884](https://www.acmicpc.net/problem/2884)|
+|19|조건문|[Python]()|시각 구하기|[백준 2525](https://www.acmicpc.net/problem/2525)|
+|20|조건문|[Python]()|첫째 줄에 3개의 눈구하기|[백준 2480](https://www.acmicpc.net/problem/2480)|
+|21|반복문|[Python]()|구구단 N단 출력|[백준 2739](https://www.acmicpc.net/problem/2739)|
+|22|반복문|[Python]()| A+B 출력|[백준 10950](https://www.acmicpc.net/problem/10950)|
+|23|반복문|[Python]()|1부터 n까지 합 구하기|[백준 8393](https://www.acmicpc.net/problem/8393)|
+|24|반복문|[Python]()|영수증 금액 구하기|[백준 25304](https://www.acmicpc.net/problem/25304)|
+|25|반복문|[Python]()|정수 자료형의 이름 출력|[백준 25314](https://www.acmicpc.net/problem/25314)|
+|26|반복문|[Python]()|A+B 출력|[백준 15552](https://www.acmicpc.net/problem/15552)|
+|27|반복문|[Python]()|A+B 출력|[백준 11021](https://www.acmicpc.net/problem/11021)|
+|28|반복문|[Python]()|A+B 출력|[백준 11022](https://www.acmicpc.net/problem/11022)|
+|29|반복문|[Python]()|별 찍기|[백준 2438](https://www.acmicpc.net/problem/2438)|
+|30|반복문|[Python]()|별 찍기|[백준 2439](https://www.acmicpc.net/problem/2439)|
+|31|반복문|[Python]()|A+B 출력|[백준 10952](https://www.acmicpc.net/problem/10952)|
+|32|반복문|[Python]()|A+B 출력|[백준 10951](https://www.acmicpc.net/problem/10951)|
+|33|1차원 배열|[Python]()|개수 세기|[백준 10807](https://www.acmicpc.net/problem/10807)|
+|34|1차원 배열|[Python]()|X보다 작은 수|[백준 10871](https://www.acmicpc.net/problem/10871)|
+|35|1차원 배열|[Python]()|최솟값 최댓값 구하기|[백준 10818](https://www.acmicpc.net/problem/10818)|
+|36|1차원 배열|[Python]()|최댓값 구하기|[백준 2562](https://www.acmicpc.net/problem/2562)|
+|37|1차원 배열|[Python]()|바구니에 공넣기|[백준 10810](https://www.acmicpc.net/problem/10810)|
+|38|1차원 배열|[Python]()|공 바꾸기|[백준 10813](https://www.acmicpc.net/problem/10813)|
+|39|1차원 배열|[Python]()|과제 제출 안한 사람 찾기|[백준 5597](https://www.acmicpc.net/problem/5597)|
+|40|1차원 배열|[Python]()|서로 다른 나머지 구하기|[백준 3052](https://www.acmicpc.net/problem/3052)|
+|41|1차원 배열|[Python]()|바구니 뒤집기|[백준 10811](https://www.acmicpc.net/problem/10811)|
+|42|1차원 배열|[Python]()|평균 구하기|[백준 1546](https://www.acmicpc.net/problem/1546)|
+|43|문자열|[Python]()|i번째 글자 출력|[백준 27866](https://www.acmicpc.net/problem/27866)|
+|44|문자열|[Python]()|단어 길이 출력|[백준 2743](https://www.acmicpc.net/problem/2743)|
+|45|문자열|[Python]()|문자열 첫 글자와 마지막 글자 출력|[백준 9086](https://www.acmicpc.net/problem/9086)|
+|46|문자열|[Python]()|아스키 코드 값 구하기|[백준 11654](https://www.acmicpc.net/problem/11654)|
+|47|문자열|[Python]()|숫자 N개의 합 출력|[백준 11720](https://www.acmicpc.net/problem/117200)|
+|48|문자열|[Python]()|알파벳 찾기|[백준 10809](https://www.acmicpc.net/problem/10809)|
+|49|문자열|[Python]()|문자열 반복하기|[백준 2675](https://www.acmicpc.net/problem/2675)|
+|50|문자열|[Python]()|단어의 개수 출력|[백준 1152](https://www.acmicpc.net/problem/1152)|
+|51|문자열|[Python]()|거꾸로 읽기|[백준 2908](https://www.acmicpc.net/problem/2908)|
+|52|문자열|[Python]()|다이얼|[백준 5622](https://www.acmicpc.net/problem/5622)|
+|53|문자열|[Python]()|입력받은 그대로 출력|[백준 11718](https://www.acmicpc.net/problem/11718)|
+|54|심화 1|[Python]()|새싹 출력|[백준 25083](https://www.acmicpc.net/problem/25083)|
+|55|심화 1|[Python]()|체스 피스 구하기|[백준 3003](https://www.acmicpc.net/problem/3003)|
+|56|심화 1|[Python]()|별 찍기|[백준 2444](https://www.acmicpc.net/problem/2444)|
+|57|심화 1|[Python]()|팰린드롬인지 확인하기|[백준 10988](https://www.acmicpc.net/problem/10988)|
+|58|심화 1|[Python]()|반복 문자열 확인하기|[백준 1157](https://www.acmicpc.net/problem/1157)|
+|59|심화 1|[Python]()|크로아티아 알파벳|[백준 2941](https://www.acmicpc.net/problem/2941)|
 </details>
 
 <details>
