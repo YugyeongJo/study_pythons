@@ -15,6 +15,4 @@ def divide(a, b):
     did = a / b 
     return did
 
-answer = divide(a, b)
-
-print(answer)
+print(divide(a, b))

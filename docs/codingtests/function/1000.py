@@ -8,12 +8,10 @@
 # 출력
 # 첫째 줄에 A+B를 출력한다.
 
-A,B = map(int, input().split())
+A, B = map(int, input().split())
 
-add = A+B
+def pt(A,B):
+    add = A+B
+    return add
 
-def pt(x):
-    print(x)
-    return
-
-pt(add)
+print(pt(A,B))
