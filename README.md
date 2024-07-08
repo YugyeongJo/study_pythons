@@ -127,12 +127,9 @@
 |33|LEVEL0|[Python](./docs/codingtests/programmers/120818.py)|옷가게 할인 후 최종 금액 구하기|[프로그래머스 120818](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|
 |34|LEVEL0|[Python](./docs/codingtests/programmers/120836.py)|순서쌍의 개수 구하기|[프로그래머스 120836](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|
 |35|LEVEL0|[Python](./docs/codingtests/programmers/120813.py)|짝수는 싫어요|[프로그래머스 120813](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|
-|36|LEVEL0|[Python](./docs/codingtests/programmers/120837.py)|개미 군단
-|[프로그래머스 120837](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|
-|37|LEVEL0|[Python](./docs/codingtests/programmers/120839.py)|가위 바위 보
-|[프로그래머스 120839](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|
-|38|LEVEL0|[Python](./docs/codingtests/programmers/120851.py)|숨어있는 숫자의 덧셈 (1)
-|[프로그래머스 120851](https://school.programmers.co.kr/learn/courses/30/lessons/120851)|
+|36|LEVEL0|[Python](./docs/codingtests/programmers/120837.py)|개미 군단|[프로그래머스 120837](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|
+|37|LEVEL0|[Python](./docs/codingtests/programmers/120839.py)|가위 바위 보|[프로그래머스 120839](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|
+|38|LEVEL0|[Python](./docs/codingtests/programmers/120851.py)|숨어있는 숫자의 덧셈 (1)|[프로그래머스 120851](https://school.programmers.co.kr/learn/courses/30/lessons/120851)|
 |39|LEVEL0|[Python](./docs/codingtests/programmers/120892.py)|암호 해독|[프로그래머스 120892](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|
 |40|LEVEL0|[Python](./docs/codingtests/programmers/120893.py)|대문자와 소문자|[프로그래머스 120893](https://school.programmers.co.kr/learn/courses/30/lessons/120893)|
 |41|LEVEL0|[Python](./docs/codingtests/programmers/120899.py)|가장 큰 수 찾기
