@@ -20,24 +20,18 @@
 # 입출력 예 #1,2,3,4
 # 문제의 예시와 같습니다.
 
+# case1) 빈 문자열
+# case2) ()로 끝나는 형태 
+# case3) ()()로 나열되는 형태
+
 # s = "()()"
 s = "(()("
 
 
 def solution(s):
-    if s[0] == ')':
-        answer = False
-    elif s[-1] == '(':
-        answer = False
-    else:
-        num = 0
-        for i in range(len(s)):
-            if s[i] == '(':
-                num += 1
-            else:
-                num -= 1
-        if num == 0:
-            answer = True
+    if s[0] == '':
+        answer = True
+    elif s
 
     return answer
 
