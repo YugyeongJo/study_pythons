@@ -1,5 +1,10 @@
 # 📚 study_pythons
 
+## 📖 소개
+
+study_pythons 레포지토리는 Python 언어를 학습한 내용을 담고 있습니다.  
+Python의 기초 구문 및 data type, function 등의 개념을 다룹니다. 
+
 ## 🛠️ Tech Stack
 
 |<center>VScode</center>|<center>Python</center>|
@@ -7,22 +12,65 @@
 |<p align="center"><img alt="vscode" src="./icons/VSCode-Light.svg" width="48"></p>|<p align="center"><img alt="html" src="./icons/Python-Dark.svg" width="48"></p>| 
 |<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
+## 📂 Directory Structure
+
+```plaintext
+SeSAC_Database_Study/
+├── README.md 
+├── icons/
+│   └── MySQL-Dark.svg
+├── docs/
+│   ├── 01_SQL_Basic(DDL_DML).sql
+│   ├── 02_SQL_Basic(WHERE).sql
+│   ├── 03_SQL_Basic(Order_By).sql
+│   ├── 04_SQL_Basic(Aggregate_Function).sql
+│   ├── 05_SQL_Basic(Group_By).sql
+│   ├── 06_SQL_Basic(DISTINCT).sql
+│   ├── 07_SQL_Basic(UPDATE).sql
+│   ├── 08_SQL_Basic(DELETE).sql
+│   ├── 09_SQL_Basic(ALTER).sql
+│   ├── 10_SQL_Basic(PrimaryKey).sql
+│   ├── 11_SQL_Basic(ForeignKey).sql
+│   ├── 12_SQL_Basic(NULL).sql
+│   ├── 13_SQL_Basic(JOIN).sql
+│   ├── 14_SQL_Basic(BuiltIn_CHAR).sql
+│   ├── 15_SQL_Basic(BuiltIn_DATE).sql
+│   ├── 16_SQL_Basic(BuiltIn_MATH).sql
+│   ├── BookDB_ERD.png
+|   ├── StudentDB_ERD.png
+│   └── quest/
+│       ├── quest1_SQL_basic(Create_Select).sql
+│       ├── quest2_SQL_basic(WHERE).sql
+│       ├── quest3_SQL_basic(ORDERBY).sql
+│       ├── quest4_SQL_basic(MATH).sql
+│       └── quest5_SQL_basic(TOTAL).sql
+└── ...
+```
+
 ## 💻 File
+
+<details open>
+<summary>Python Basic File</summary>
 
 |번호|구분|파일(code)|설명|비고|
 |--|--|--|--|--|
 ||||||
+</details>
 
 ## 📈 Quest
 
+<details open>
+<summary>Python Basic QUEST</summary>
+
 |번호|구분|파일(code)|설명|비고|
 |--|--|--|--|--|
 ||||||
+</details>
 
 ## Coding Test
-<details>
 
-  <summary>백준</summary>
+<details>
+<summary>백준</summary>
   
 |NO|구분|소스|문제설명|출처|
 |--|--|--|--|--|
@@ -88,7 +136,7 @@
 </details>
 
 <details>
-  <summary>프로그래머스</summary>
+<summary>프로그래머스</summary>
 
 |NO|구분|소스|문제설명|출처|
 |--|--|--|--|--|
@@ -250,3 +298,4 @@
 |[프로그래머스 86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|
 |102|LEVEL0|[Python](./docs/codingtests/programmers/12926.py)|시저 암호
 |[프로그래머스 12926](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|  
+</details>

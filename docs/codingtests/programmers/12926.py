@@ -13,5 +13,10 @@ s = "AB"
 n = 1
 
 def solution(s, n):
+    upper_alpha = [chr(i) for i in range(ord('a'), ord('z') + 1)]
+    lower_alpha = [chr(i) for i in range(ord('A'), ord('Z') + 1)]
     answer = ''
+    for x in s:
+        
+    
     return answer
