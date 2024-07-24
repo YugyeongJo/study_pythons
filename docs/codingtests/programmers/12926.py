@@ -18,5 +18,4 @@ def solution(s, n):
     answer = ''
     for x in s:
         
-    
     return answer

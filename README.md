@@ -15,46 +15,82 @@ Python의 기초 구문 및 data type, function 등의 개념을 다룹니다.
 ## 📂 Directory Structure
 
 ```plaintext
-SeSAC_Database_Study/
+study_pythons/
 ├── README.md 
 ├── icons/
-│   └── MySQL-Dark.svg
+│   └── Python-Dark.svg
+│   └── VSCode-Light.svg
 ├── docs/
-│   ├── 01_SQL_Basic(DDL_DML).sql
-│   ├── 02_SQL_Basic(WHERE).sql
-│   ├── 03_SQL_Basic(Order_By).sql
-│   ├── 04_SQL_Basic(Aggregate_Function).sql
-│   ├── 05_SQL_Basic(Group_By).sql
-│   ├── 06_SQL_Basic(DISTINCT).sql
-│   ├── 07_SQL_Basic(UPDATE).sql
-│   ├── 08_SQL_Basic(DELETE).sql
-│   ├── 09_SQL_Basic(ALTER).sql
-│   ├── 10_SQL_Basic(PrimaryKey).sql
-│   ├── 11_SQL_Basic(ForeignKey).sql
-│   ├── 12_SQL_Basic(NULL).sql
-│   ├── 13_SQL_Basic(JOIN).sql
-│   ├── 14_SQL_Basic(BuiltIn_CHAR).sql
-│   ├── 15_SQL_Basic(BuiltIn_DATE).sql
-│   ├── 16_SQL_Basic(BuiltIn_MATH).sql
-│   ├── BookDB_ERD.png
-|   ├── StudentDB_ERD.png
+│   ├── 
 │   └── quest/
-│       ├── quest1_SQL_basic(Create_Select).sql
-│       ├── quest2_SQL_basic(WHERE).sql
-│       ├── quest3_SQL_basic(ORDERBY).sql
-│       ├── quest4_SQL_basic(MATH).sql
-│       └── quest5_SQL_basic(TOTAL).sql
+│       └── 
 └── ...
 ```
 
-## 💻 File
+## 💻 Python File
 
 <details open>
 <summary>Python Basic File</summary>
 
 |번호|구분|파일(code)|설명|비고|
 |--|--|--|--|--|
-||||||
+|1|입력|[inputs.py](./docs/basics/inputs.py)|input 학습|input()|
+|2|출력|[outputs.py](./docs/basics/outputs.py)|print 학습|print()|
+|3|가정문|[if_elses_elses.py](./docs/basics/if_elses_elses.py)|if - elif - else 가정문 학습|if - elif - else|
+|4|반복문|[loops_whiles.py](./docs/basics/loops_whiles.py)|while 반복문 학습|while|
+|5|반복문|[loops_fors.py](./docs/basics/loops_fors.py)|for 반복문 학습|for|
+|6|컴프리헨션|[loops_fors_comprehension.py](./docs/basics/loops_fors_comprehension.py)|comprehension 사용방법 학습||
+</details>
+
+<details open>
+<summary>Python DataType File</summary>
+
+|번호|구분|파일(code)|설명|비고|
+|--|--|--|--|--|
+|1|Boolean|[data_types_booleans.py](./docs/datatypes/data_types_booleans.py)|boolean data type 학습|True, False|
+|2|String|[data_types_strings.py](./docs/datatypes/data_types_strings.py)|string data type 학습||
+|3|Numeric|[data_types_numerics.py](./docs/datatypes/data_types_numerics.py)|numeric data type 학습||
+|4|Casts|[data_types_cast.py](./docs/datatypes/data_types_cast.py)|data type 변환하기|type()|
+|5|Datetime|[data_types_lists.py](./docs/datatypes/data_types_lists.py)|datetime data type 학습||
+|6|List|[data_types_lists.py](./docs/datatypes/data_types_lists.py)|data type 학습|list = []|
+|7|Dictionary|[data_types_dictionaries.py](./docs/datatypes/data_types_dictionaries.py)|data type 학습|dict = {}|
+|8|Dictionary_Mix|[data_types_mixes.py](./docs/datatypes/data_types_mixes.py)|data type 학습|list_dict = [{}, {}, {}]|
+</details>
+
+<details open>
+<summary>Python Function File</summary>
+
+|번호|구분|파일(code)|설명|비고|
+|--|--|--|--|--|
+|1|format|[functions_formats.py](./docs/functions/)|function 기본 형식 학습||
+|2|return|[functions_returns.py](./docs/functions/functions_returns.py)|function return 학습||
+|3|parameters|[functions_parameters.py](./docs/functions/functions_parameters.py)|다른 파일의 함수 호출 방법 학습||
+|4|main|[functions_main.py](./docs/functions/functions_main.py)|다른 파일의 함수 호출 방법 학습||
+|5|callback|[functions_callbacks.py](./docs/functions/functions_callbacks.py)|콜백 함수 학습||
+|6|lambda|[functions_lambdas.py](./docs/functions/functions_lambdas.py)|lambda 함수 학습||
+</details>
+
+<details open>
+<summary>Python Class File</summary>
+
+|번호|구분|파일(code)|설명|비고|
+|--|--|--|--|--|
+|1|format|[classes_formats.py](./docs/classes/classes_formats.py)|class 기본 형식 학습||
+|2|RPG Game|[classes_RPGgames.py](./docs/classes/classes_RPGgames.py)|RPG 게임 구현을 통한 class 학습||
+|3|os|[classes_importsfrombuilt-in.py](./docs/classes/classes_importsfrombuilt-in.py)|파일 위치 확인 방법 학습||
+|4|module|[classes_modules.py](./docs/classes/classes_modules.py)|다른 파일 class import 방법 학습||
+</details>
+
+<details open>
+<summary>Python Useful File</summary>
+
+|번호|구분|파일(code)|설명|비고|
+|--|--|--|--|--|
+|1|range|[range.py](./docs/usefuls/range.py)|range 활용 방법 학습|range()|
+|2|예외처리|[demo_servers.py](./docs/usefuls/demo_servers.py)|if문을 활용한 예외처리||
+|3|예외처리|[exception_handlings.py](./docs/usefuls/exception_handlings.py)|try except을 활용한 예외처리||
+|4|kwargs|[params_kwargs.py](./docs/usefuls/params_kwargs.py)|딕셔너리를 통째로 파라미터에 넘겨주는 방법|kwargs**|
+|5|예외처리|[syntax_bases.py](./docs/usefuls/syntax_bases.py)|class를 활용한 예외처리||
 </details>
 
 ## 📈 Quest
@@ -64,7 +100,15 @@ SeSAC_Database_Study/
 
 |번호|구분|파일(code)|설명|비고|
 |--|--|--|--|--|
-||||||
+|1|One Hand Game|[onehandgame.py](./docs/quests/onehandgame.py)|컴퓨터 작동 방식 이해 실습||
+|2|Cuboid|[inputwiththree_outputcuboid.py](./docs/quests/inputwiththree_outputcuboid.py)|입출력 작동 방식 이해 실습||
+|3|BMI|[bmis.py](./docs/quests/bmis.py)|if문 실습||
+|4|구구단|[timestables_whiles.py](./docs/quests/timestables_whiles.py)|while문 실습||
+|5|구구단|[timestables_fors.py](./docs/quests/timestables_fors.py)|for문 실습||
+|6|Multiple Calculator|[cal_loop_multiply.py](./docs/quests/cal_loop_multiply.py)|function 실습||
+|7|구구단|[timestables_function.py](./docs/quests/timestables_function.py)|try except실습||
+|8|문제 출제|[data_types_questions_mix.py](./docs/quests/data_types_questions_mix.py)|문제 출제 실습||
+|9|Calculator|[classes_arithmetics.py](./docs/quests/classes_arithmetics.py)|class 실습||
 </details>
 
 ## Coding Test
