@@ -21,10 +21,54 @@ study_pythons/
 │   └── Python-Dark.svg
 │   └── VSCode-Light.svg
 ├── docs/
-│   ├── 
-│   └── quest/
-│       └── 
-└── ...
+│   ├── basics/
+│   │   └── inputs.py
+│   │   └── outputs.py
+│   │   └── if_elses_elses.py
+│   │   └── loops_whiles.py
+│   │   └── loops_fors.py
+│   │   └── loops_fors_comprehension.py
+│   ├── datatypes/
+│   │   └── data_types_booleans.py
+│   │   └── data_types_strings.py
+│   │   └── data_types_numerics.py
+│   │   └── data_types_cast.py
+│   │   └── data_types_lists.py
+│   │   └── data_types_dictionaries.py
+│   │   └── data_types_mixes.py
+│   ├── functions/
+│   │   └── functions_formats.py
+│   │   └── functions_returns.py
+│   │   └── functions_parameters.py
+│   │   └── functions_main.py
+│   │   └── functions_callbacks.py
+│   │   └── functions_lambdas.py
+│   ├── classes/
+│   │   └── classes_formats.py
+│   │   └── classes_RPGgames.py
+│   │   └── classes_importsfrombuilt-in.py
+│   │   └── classes_modules.py
+│   ├── usefuls/
+│   │   └── range.py
+│   │   └── demo_servers.py
+│   │   └── exception_handlings.py
+│   │   └── params_kwargs.py
+│   │   └── syntax_bases.py
+│   └── quests/
+│       └── onehandgame.py
+│       └── inputwiththree_outputcuboid.py
+│       └── bmis.py
+│       └── timestables_whiles.py
+│       └── timestables_fors.py
+│       └── cal_loop_multiply.py
+│       └── timestables_function.py
+│       └── data_types_questions_mix.py
+│       └── classes_arithmetics.py
+└── codingtests/
+    ├── function/
+    ├── pure/
+    └── programmers/
+
 ```
 
 ## 💻 Python File
