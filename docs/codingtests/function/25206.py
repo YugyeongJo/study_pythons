@@ -45,4 +45,3 @@ for i in range(20):
         total_lecture_score += b
         
 print(total_score/total_lecture_score)
-    
