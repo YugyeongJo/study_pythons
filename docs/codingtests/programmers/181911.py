@@ -22,5 +22,6 @@ def solution(my_strings, parts):
         end = parts[i][-1]
         answer += my_strings[i][start:end+1]
     return answer
+    
 
 print(solution(my_strings, parts))
