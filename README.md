@@ -273,18 +273,15 @@ study_pythons/
 |42|LEVEL0|[Python](./docs/codingtests/programmers/120905.py)|n의 배수 고르기|[프로그래머스 120905](https://school.programmers.co.kr/learn/courses/30/lessons/120905)|
 |43|LEVEL0|[Python](./docs/codingtests/programmers/181889.py)|n 번째 원소까지
 |[프로그래머스 181889](https://school.programmers.co.kr/learn/courses/30/lessons/181889)|
-|44|LEVEL0|[Python](./docs/codingtests/programmers/181892.py)|n 번째 원소부터
-|[프로그래머스 181892](https://school.programmers.co.kr/learn/courses/30/lessons/181892)|
+|44|LEVEL0|[Python](./docs/codingtests/programmers/181892.py)|n 번째 원소부터|[프로그래머스 181892](https://school.programmers.co.kr/learn/courses/30/lessons/181892)|
 |45|LEVEL0|[Python](./docs/codingtests/programmers/181896.py)|첫 번째로 나오는 음수
 |[프로그래머스 181896](https://school.programmers.co.kr/learn/courses/30/lessons/181896)|
-|46|LEVEL0|[Python](./docs/codingtests/programmers/181899.py)|카운트 다운
-|[프로그래머스 181899](https://school.programmers.co.kr/learn/courses/30/lessons/181899)|
+|46|LEVEL0|[Python](./docs/codingtests/programmers/181899.py)|카운트 다운|[프로그래머스 181899](https://school.programmers.co.kr/learn/courses/30/lessons/181899)|
 |47|LEVEL0|[Python](./docs/codingtests/programmers/181901.py)|배열 만들기 1
 |[프로그래머스 181901](https://school.programmers.co.kr/learn/courses/30/lessons/181901)|
 |48|LEVEL0|[Python](./docs/codingtests/programmers/181906.py)|접두사인지 확인하기
 |[프로그래머스 181906](https://school.programmers.co.kr/learn/courses/30/lessons/181906)|
-|49|LEVEL0|[Python](./docs/codingtests/programmers/181907.py)|문자열의 앞의 n글자
-|[프로그래머스 181907](https://school.programmers.co.kr/learn/courses/30/lessons/181907)|
+|49|LEVEL0|[Python](./docs/codingtests/programmers/181907.py)|문자열의 앞의 n글자|[프로그래머스 181907](https://school.programmers.co.kr/learn/courses/30/lessons/181907)|
 |50|LEVEL0|[Python](./docs/codingtests/programmers/181908.py)|접미사인지 확인하기|[프로그래머스 181908](https://school.programmers.co.kr/learn/courses/30/lessons/181908)|
 |51|LEVEL0|[Python](./docs/codingtests/programmers/181910.py)|문자열의 뒤의 n글자|[프로그래머스 181910](https://school.programmers.co.kr/learn/courses/30/lessons/181910)|
 |52|LEVEL0|[Python](./docs/codingtests/programmers/181915.py)|글자 이어 붙여 문자열 만들기
