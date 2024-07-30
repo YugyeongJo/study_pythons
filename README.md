@@ -323,16 +323,12 @@ study_pythons/
 |[프로그래머스 12933](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|
 |71|LEVEL1|[Python](./docs/codingtests/programmers/12934.py)|정수 제곱근 판별
 |[프로그래머스 12934](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|
-|72|LEVEL1|[Python](./docs/codingtests/programmers/12937.py)|짝수와 홀수
-|[프로그래머스 12937](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|
+|72|LEVEL1|[Python](./docs/codingtests/programmers/12937.py)|짝수와 홀수|[프로그래머스 12937](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|
 |73|LEVEL1|[Python](./docs/codingtests/programmers/12944.py)|평균 구하기
 |[프로그래머스 12944](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|
-|74|LEVEL1|[Python](./docs/codingtests/programmers/12947.py)|하샤드 수
-|[프로그래머스 12947](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|
-|75|LEVEL1|[Python](./docs/codingtests/programmers/12954.py)|x만큼 간격이 있는 n개의 숫자
-|[프로그래머스 12954](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|
-|76|LEVEL1|[Python](./docs/codingtests/programmers/87389.py)|나머지가 1이 되는 수 찾기
-|[프로그래머스 87389](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|
+|74|LEVEL1|[Python](./docs/codingtests/programmers/12947.py)|하샤드 수|[프로그래머스 12947](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|
+|75|LEVEL1|[Python](./docs/codingtests/programmers/12954.py)|x만큼 간격이 있는 n개의 숫자|[프로그래머스 12954](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|
+|76|LEVEL1|[Python](./docs/codingtests/programmers/87389.py)|나머지가 1이 되는 수 찾기|[프로그래머스 87389](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|
 |77|LEVEL1|[Python](./docs/codingtests/programmers/12912.py)|두 정수 사이의 합
 |[프로그래머스 12912](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|
 |78|LEVEL1|[Python](./docs/codingtests/programmers/12919.py)|서울에서 김서방 찾기
