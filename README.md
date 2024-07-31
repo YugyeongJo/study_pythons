@@ -369,16 +369,11 @@ study_pythons/
 |96|LEVEL1|[Python](./docs/codingtests/programmers/68935.py)|3진법 뒤집기|[프로그래머스 68935](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|
 |97|LEVEL1|[Python](./docs/codingtests/programmers/147355.py)|크기가 작은 부분 문자열
 |[프로그래머스 147355](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|
-|98|LEVEL1|[Python](./docs/codingtests/programmers/12982.py)|예산
-|[프로그래머스 12982](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|
-|99|LEVEL1|[Python](./docs/codingtests/programmers/12930.py)|이상한 문자 만들기
-|[프로그래머스 12930](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|
-|100|LEVEL1|[Python](./docs/codingtests/programmers/131705.py)|삼총사
-|[프로그래머스 131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|
-|101|LEVEL1|[Python](./docs/codingtests/programmers/86491.py)|최소직사각형
-|[프로그래머스 86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|
-|102|LEVEL0|[Python](./docs/codingtests/programmers/12926.py)|시저 암호
-|[프로그래머스 12926](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|  
+|98|LEVEL1|[Python](./docs/codingtests/programmers/12982.py)|예산|[프로그래머스 12982](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|
+|99|LEVEL1|[Python](./docs/codingtests/programmers/12930.py)|이상한 문자 만들기|[프로그래머스 12930](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|
+|100|LEVEL1|[Python](./docs/codingtests/programmers/131705.py)|삼총사|[프로그래머스 131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|
+|101|LEVEL1|[Python](./docs/codingtests/programmers/86491.py)|최소직사각형|[프로그래머스 86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|
+|102|LEVEL0|[Python](./docs/codingtests/programmers/12926.py)|시저 암호|[프로그래머스 12926](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|  
 </details>
 
 ## 📝참고자료
