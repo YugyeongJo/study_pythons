@@ -277,8 +277,7 @@ study_pythons/
 |45|LEVEL0|[Python](./docs/codingtests/programmers/181896.py)|첫 번째로 나오는 음수
 |[프로그래머스 181896](https://school.programmers.co.kr/learn/courses/30/lessons/181896)|
 |46|LEVEL0|[Python](./docs/codingtests/programmers/181899.py)|카운트 다운|[프로그래머스 181899](https://school.programmers.co.kr/learn/courses/30/lessons/181899)|
-|47|LEVEL0|[Python](./docs/codingtests/programmers/181901.py)|배열 만들기 1
-|[프로그래머스 181901](https://school.programmers.co.kr/learn/courses/30/lessons/181901)|
+|47|LEVEL0|[Python](./docs/codingtests/programmers/181901.py)|배열 만들기 1|[프로그래머스 181901](https://school.programmers.co.kr/learn/courses/30/lessons/181901)|
 |48|LEVEL0|[Python](./docs/codingtests/programmers/181906.py)|접두사인지 확인하기
 |[프로그래머스 181906](https://school.programmers.co.kr/learn/courses/30/lessons/181906)|
 |49|LEVEL0|[Python](./docs/codingtests/programmers/181907.py)|문자열의 앞의 n글자|[프로그래머스 181907](https://school.programmers.co.kr/learn/courses/30/lessons/181907)|
