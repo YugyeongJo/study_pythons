@@ -311,13 +311,10 @@ study_pythons/
 |80|LEVEL1|[Python](./docs/codingtests/programmers/86051.py)|없는 숫자 더하기|[프로그래머스 86051](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|
 |81|LEVEL1|[Python](./docs/codingtests/programmers/12910.py)|나누어 떨어지는 숫자 배열|[프로그래머스 12910](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|
 |82|LEVEL1|[Python](./docs/codingtests/programmers/12948.py)|핸드폰 번호 가리기|[프로그래머스 12948](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|
-|83|LEVEL1|[Python](./docs/codingtests/programmers/12935.py)|제일 작은 수 제거하기
-|[프로그래머스 12935](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|
+|83|LEVEL1|[Python](./docs/codingtests/programmers/12935.py)|제일 작은 수 제거하기|[프로그래머스 12935](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|
 |84|LEVEL1|[Python](./docs/codingtests/programmers/12943.py)|콜라츠 추측|[프로그래머스 12943](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|
-|85|LEVEL1|[Python](./docs/codingtests/programmers/12903.py)|가운데 글자 가져오기
-|[프로그래머스 12903](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|
-|86|LEVEL1|[Python](./docs/codingtests/programmers/12922.py)|수박수박수박수박수박수?
-|[프로그래머스 12922](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|
+|85|LEVEL1|[Python](./docs/codingtests/programmers/12903.py)|가운데 글자 가져오기|[프로그래머스 12903](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|
+|86|LEVEL1|[Python](./docs/codingtests/programmers/12922.py)|수박수박수박수박수박수?|[프로그래머스 12922](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|
 |87|LEVEL1|[Python](./docs/codingtests/programmers/70128.py)|내적
 |[프로그래머스 70128](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
 |88|LEVEL1|[Python](./docs/codingtests/programmers/77884.py)|약수의 개수와 덧셈
