@@ -315,25 +315,17 @@ study_pythons/
 |84|LEVEL1|[Python](./docs/codingtests/programmers/12943.py)|콜라츠 추측|[프로그래머스 12943](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|
 |85|LEVEL1|[Python](./docs/codingtests/programmers/12903.py)|가운데 글자 가져오기|[프로그래머스 12903](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|
 |86|LEVEL1|[Python](./docs/codingtests/programmers/12922.py)|수박수박수박수박수박수?|[프로그래머스 12922](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|
-|87|LEVEL1|[Python](./docs/codingtests/programmers/70128.py)|내적
-|[프로그래머스 70128](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
-|88|LEVEL1|[Python](./docs/codingtests/programmers/77884.py)|약수의 개수와 덧셈
-|[프로그래머스 77884](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|
-|89|LEVEL1|[Python](./docs/codingtests/programmers/12917.py)|문자열 내림차순으로 배치하기
-|[프로그래머스 12917](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|
-|90|LEVEL1|[Python](./docs/codingtests/programmers/82612.py)|부족한 금액 계산하기
-|[프로그래머스 82612](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|
-|91|LEVEL1|[Python](./docs/codingtests/programmers/12918.py)|문자열 다루기 기본
-|[프로그래머스 12918](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|
+|87|LEVEL1|[Python](./docs/codingtests/programmers/70128.py)|내적|[프로그래머스 70128](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
+|88|LEVEL1|[Python](./docs/codingtests/programmers/77884.py)|약수의 개수와 덧셈|[프로그래머스 77884](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|
+|89|LEVEL1|[Python](./docs/codingtests/programmers/12917.py)|문자열 내림차순으로 배치하기|[프로그래머스 12917](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|
+|90|LEVEL1|[Python](./docs/codingtests/programmers/82612.py)|부족한 금액 계산하기|[프로그래머스 82612](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|
+|91|LEVEL1|[Python](./docs/codingtests/programmers/12918.py)|문자열 다루기 기본|[프로그래머스 12918](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|
 |92|LEVEL1|[Python](./docs/codingtests/programmers/12950.py)|행렬의 덧셈|[프로그래머스 12950](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|
 |93|LEVEL1|[Python](./docs/codingtests/programmers/12969.py)|직사각형 별찍기|[프로그래머스 12969](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|
-|94|LEVEL1|[Python](./docs/codingtests/programmers/12940.py)|최대공약수와 최소공배수
-|[프로그래머스 12940](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|
-|95|LEVEL1|[Python](./docs/codingtests/programmers/12906.py)|같은 숫자는 싫어
-|[프로그래머스 12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|
+|94|LEVEL1|[Python](./docs/codingtests/programmers/12940.py)|최대공약수와 최소공배수|[프로그래머스 12940](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|
+|95|LEVEL1|[Python](./docs/codingtests/programmers/12906.py)|같은 숫자는 싫어|[프로그래머스 12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|
 |96|LEVEL1|[Python](./docs/codingtests/programmers/68935.py)|3진법 뒤집기|[프로그래머스 68935](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|
-|97|LEVEL1|[Python](./docs/codingtests/programmers/147355.py)|크기가 작은 부분 문자열
-|[프로그래머스 147355](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|
+|97|LEVEL1|[Python](./docs/codingtests/programmers/147355.py)|크기가 작은 부분 문자열|[프로그래머스 147355](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|
 |98|LEVEL1|[Python](./docs/codingtests/programmers/12982.py)|예산|[프로그래머스 12982](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|
 |99|LEVEL1|[Python](./docs/codingtests/programmers/12930.py)|이상한 문자 만들기|[프로그래머스 12930](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|
 |100|LEVEL1|[Python](./docs/codingtests/programmers/131705.py)|삼총사|[프로그래머스 131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|
