@@ -5,6 +5,9 @@
 study_pythons 레포지토리는 Python 언어를 학습한 내용을 담고 있습니다.  
 Python의 기초 구문 및 data type, function 등의 개념을 다룹니다. 
 
+### 학습내용
+
+
 ## 🛠️ Tech Stack
 
 |<center>VScode</center>|<center>Python</center>|
