@@ -45,5 +45,6 @@ def matrix_print(results, length):
                 answer += results[j][i]
     return answer
                 
+                
 results, length = making_matrix()
 print(matrix_print(results, length))
